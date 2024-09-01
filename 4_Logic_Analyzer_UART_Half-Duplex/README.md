@@ -1,7 +1,7 @@
 # Project: USART Half-Duplex transmission communication
 
 ## The aim
-The main purpose of this application is to show how to establish UART communication in half-duplex mode using two Arduino Uno. The 24MHz 8-Channel USB Logic Analyzer Device is used here to analyze the UART signal. The Embedded C is applied to compile program in Arduino IDE 2.1.
+The main purpose of this application is to show how to establish UART communication in half-duplex mode using two Arduino Uno. The 24MHz 8-Channel USB Logic Analyzer Device is used here to analyze the UART signal. The Embedded C++ is applied to compile program in Arduino IDE 2.1.
 
 ## Hardware Requirements
 
